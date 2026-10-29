@@ -1,8 +1,8 @@
 ## Welcome!
 
 My name is Blake and it is nice to meet you 🐱!<br>
-I've always wanted to get into game development as a hobby ever since I was a kid so you'll find me tinkering away here. <br>
 
+I've always wanted to get into game development as a hobby ever since I was a kid so you'll find me tinkering away here. <br>
 As for the profile picture, our beloved cat Bella passed away and was a bit of a wake up call for me to begin pursuing what I have always wanted to get into as a hobby.<br>
 While you may not be here Bella, you will be immortalized here as I adventure into game development.
 
